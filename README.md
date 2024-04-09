@@ -1,0 +1,1 @@
+# twrp-device_xiaomi_rosy

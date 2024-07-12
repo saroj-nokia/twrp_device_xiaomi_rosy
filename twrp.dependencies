@@ -1,6 +1,6 @@
 [
   {
-    "remote":      "baunilla",
+    "remote":      "saroj-nokia",
     "repository":  "android_kernel_xiaomi_rosy",
     "target_path": "kernel/xiaomi/rosy"
     "revision":    "lineage-20.0"
